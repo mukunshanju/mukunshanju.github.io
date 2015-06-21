@@ -86,7 +86,7 @@ body {
 }
 /* Section 1 */
 #index{
-    background-image: url(../img/bg1.jpg);
+    background-image: url(http://7xjva2.com1.z0.glb.clouddn.com/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -130,7 +130,7 @@ body {
 }
 /* Section 2 */
 #scenery{
-    background-image: url(../img/bg2.jpg);
+    background-image: url(http://7xjva2.com1.z0.glb.clouddn.com/bg2.jpg);
     background-size: cover;
 }
 #scenery .imgbox{
@@ -280,7 +280,7 @@ body {
 
 /* Section 4 */
 #live{
-    background-image: url(../img/bg4.jpg);
+    background-image: url(http://7xjva2.com1.z0.glb.clouddn.com/bg4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -307,7 +307,7 @@ body {
 }
 /* Section 5 */
 #contact{
-    background-image: url(../img/bg5.jpg);
+    background-image: url(http://7xjva2.com1.z0.glb.clouddn.com/bg5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
